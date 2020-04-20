@@ -1,0 +1,1 @@
+"C:\ProgramData\Anaconda3\Scripts\streamlit.exe" run "C:\Users\Christian\Box\data&stuff\WallBreaker\wallbreaker\WallBreaker.py"
